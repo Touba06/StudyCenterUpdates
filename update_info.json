@@ -1,9 +1,9 @@
 {
-    "version": "26",
+    "version": "27",
     "update_type": "big",
     "changed_files_count": 1,
     "changed_files_names": ["test"],
-    "owner_message": "Welcome to the new system! This message appears just once.",
-    "note": "Important security fixes applied.",
+    "owner_message": "Also, there is a new update available.",
+    "note": "Testing the NOTE feature during an update! Very cool.",
     "exe_link": "https://github.com/Touba06/StudyCenterUpdates/releases/download/v26/Study.Center.V2.exe"
 }
