@@ -1,8 +1,8 @@
 {
-    "version": "18",
-    "update_type": "small",
+    "version": "19",
+    "update_type": "big",
     "changed_files_count": 1,
     "changed_files_names": ["Login.Designer.cs"],
     "owner_message": "",
-    "exe_link": "https://github.com/Touba06/StudyCenterUpdates/releases/download/v18/Study.Center.V2.exe"
+    "exe_link": ""
 }
