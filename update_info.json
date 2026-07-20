@@ -1,7 +1,7 @@
 {
-    "version": "25",
+    "version": "26",
     "update_type": "big",
-    "owner_message": "Welcome to the new version! This message shows once.",
-    "note": "Bug fixes and performance improvements",
-    "exe_link": "https://github.com/Touba06/StudyCenterUpdates/releases/download/v25/Study.Center.V2.exe"
+    "owner_message": "Security and stability improvements.",
+    "note": "Bug fixes for KeyAuth",
+    "exe_link": "https://github.com/Touba06/StudyCenterUpdates/releases/download/v26/Study.Center.V2.exe"
 }
