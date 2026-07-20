@@ -1,8 +1,7 @@
 {
-    "version": "24",
-    "update_type": "small",
-    "changed_files_count": 1,
-    "changed_files_names": ["Login.Designer.cs"],
-    "owner_message": "h",
-    "exe_link": "https://github.com/Touba06/StudyCenterUpdates/releases/download/v24/Study.Center.V2.exe"
+    "version": "25",
+    "update_type": "big",
+    "owner_message": "Welcome to the new version! This message shows once.",
+    "note": "Bug fixes and performance improvements",
+    "exe_link": "https://github.com/Touba06/StudyCenterUpdates/releases/download/v25/Study.Center.V2.exe"
 }
