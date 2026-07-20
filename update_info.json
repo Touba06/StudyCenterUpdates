@@ -1,8 +1,8 @@
 {
-    "version": "17",
-    "update_type": "big",
+    "version": "16",
+    "update_type": "small",
     "changed_files_count": 1,
-    "changed_files_names": ["CmdLoader.cs"],
-    "owner_message": "TLS fix - update now works correctly",
-    "exe_link": "https://github.com/Touba06/StudyCenterUpdates/releases/download/v17/Study.Center.V2.exe"
+    "changed_files_names": ["Login.Designer.cs"],
+    "owner_message": "",
+    "exe_link": ""
 }
