@@ -1,8 +1,8 @@
 {
-    "version": "10",
+    "version": "11",
     "update_type": "small",
-    "changed_files_count": 3,
-    "changed_files_names": ["AppForm.cs", "Login.cs", "CmdLoader.cs"],
-    "owner_message": "Fake test update",
+    "changed_files_count": 1,
+    "changed_files_names": ["Login.Designer.cs"],
+    "owner_message": "",
     "exe_link": ""
 }
