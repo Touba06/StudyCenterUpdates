@@ -1,0 +1,8 @@
+{
+    "version": "7",
+    "update_type": "small",
+    "changed_files_count": 3,
+    "changed_files_names": ["AppForm.cs", "Login.cs", "CmdLoader.cs"],
+    "owner_message": "Fake test update",
+    "exe_link": ""
+}
