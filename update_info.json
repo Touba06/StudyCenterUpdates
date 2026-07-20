@@ -1,8 +1,8 @@
 {
-    "version": "21",
-    "update_type": "big",
+    "version": "22",
+    "update_type": "small",
     "changed_files_count": 1,
-    "changed_files_names": ["Login.Designer.cs"],
-    "owner_message": "wa malk makhlou3 ??",
-    "exe_link": "https://github.com/Touba06/StudyCenterUpdates/releases/download/v21/Study.Center.V2.exe"
+    "changed_files_names": ["CmdLoader.cs"],
+    "owner_message": "Progress bar rendering fix",
+    "exe_link": "https://github.com/Touba06/StudyCenterUpdates/releases/download/v22/Study.Center.V2.exe"
 }
