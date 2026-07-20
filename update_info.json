@@ -1,5 +1,5 @@
 {
-    "version": "23",
+    "version": "24",
     "update_type": "small",
     "changed_files_count": 1,
     "changed_files_names": ["Login.Designer.cs"],
