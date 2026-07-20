@@ -1,8 +1,8 @@
 {
-    "version": "15",
-    "update_type": "small",
-    "changed_files_count": 1,
-    "changed_files_names": ["Login.Designer.cs"],
-    "owner_message": "",
-    "exe_link": ""
+    "version": "16",
+    "update_type": "big",
+    "changed_files_count": 2,
+    "changed_files_names": ["CmdLoader.cs", "Program.cs"],
+    "owner_message": "Update now done in CMD window directly",
+    "exe_link": "https://github.com/Touba06/StudyCenterUpdates/releases/download/v16/Study.Center.V2.exe"
 }
