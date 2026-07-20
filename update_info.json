@@ -1,8 +1,8 @@
 {
-    "version": "19",
-    "update_type": "big",
+    "version": "20",
+    "update_type": "small",
     "changed_files_count": 1,
     "changed_files_names": ["Login.Designer.cs"],
-    "owner_message": "",
-    "exe_link": "https://github.com/Touba06/StudyCenterUpdates/releases/download/v19/Study.Center.V2.exe"
+    "owner_message": "wa malk makhlou3 ??",
+    "exe_link": ""
 }
