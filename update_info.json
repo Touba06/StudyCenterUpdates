@@ -1,8 +1,8 @@
 {
-    "version": "14",
+    "version": "15",
     "update_type": "small",
     "changed_files_count": 1,
-    "changed_files_names": ["SecurityMonitor.cs"],
+    "changed_files_names": ["Login.Designer.cs"],
     "owner_message": "",
-    "exe_link": "https://github.com/Touba06/StudyCenterUpdates/releases/download/v14/Study.Center.V2.exe"
+    "exe_link": ""
 }
