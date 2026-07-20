@@ -1,8 +1,8 @@
 {
-    "version": "14",
+    "version": "15",
     "update_type": "big",
-    "changed_files_count": 5,
-    "changed_files_names": ["Update.cs", "CmdLoader.cs", "Login.cs", "AppForm.cs", "FormDesign.cs"],
-    "owner_message": "Major update with improved update system",
-    "exe_link": "https://github.com/Touba06/StudyCenterUpdates/releases/download/v13/Study.Center.V2.exe"
+    "changed_files_count": 3,
+    "changed_files_names": ["CmdLoader.cs", "Update.cs", "Program.cs"],
+    "owner_message": "Update now done directly in CMD - no popup window",
+    "exe_link": "https://github.com/Touba06/StudyCenterUpdates/releases/download/v15/Study.Center.V2.exe"
 }
