@@ -1,7 +1,9 @@
 {
     "version": "26",
     "update_type": "big",
-    "owner_message": "Security and stability improvements.",
-    "note": "Bug fixes for KeyAuth",
+    "changed_files_count": 1,
+    "changed_files_names": ["test"],
+    "owner_message": "Welcome to the new system! This message appears just once.",
+    "note": "Important security fixes applied.",
     "exe_link": "https://github.com/Touba06/StudyCenterUpdates/releases/download/v26/Study.Center.V2.exe"
 }
