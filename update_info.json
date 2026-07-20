@@ -1,8 +1,8 @@
 {
-    "version": "18",
-    "update_type": "small",
+    "version": "21",
+    "update_type": "big",
     "changed_files_count": 1,
-    "changed_files_names": ["CmdLoader.cs"],
-    "owner_message": "Progress bar rendering fix",
+    "changed_files_names": ["Login.Designer.cs"],
+    "owner_message": "wa malk makhlou3 ??",
     "exe_link": ""
 }
