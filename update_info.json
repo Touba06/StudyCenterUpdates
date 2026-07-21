@@ -1,9 +1,9 @@
 {
-    "version": "1784577793",
+    "version": "28",
     "update_type": "small",
     "changed_files_count": 1,
-    "changed_files_names": ["Login.Designer.cs"],
-    "owner_message": "",
-    "note": "",
+    "changed_files_names": ["test"],
+    "owner_message": "Update test",
+    "note": "Update test",
     "exe_link": "https://github.com/Touba06/StudyCenterUpdates/releases/download/v1784577793/Study.Center.V2.exe"
 }
